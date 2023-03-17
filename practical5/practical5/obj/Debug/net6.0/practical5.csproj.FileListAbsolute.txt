@@ -1,0 +1,15 @@
+C:\Users\jayesh\source\repos\practical5\practical5\obj\Debug\net6.0\practical5.csproj.AssemblyReference.cache
+C:\Users\jayesh\source\repos\practical5\practical5\obj\Debug\net6.0\practical5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayesh\source\repos\practical5\practical5\obj\Debug\net6.0\practical5.AssemblyInfoInputs.cache
+C:\Users\jayesh\source\repos\practical5\practical5\obj\Debug\net6.0\practical5.AssemblyInfo.cs
+C:\Users\jayesh\source\repos\practical5\practical5\obj\Debug\net6.0\practical5.csproj.CoreCompileInputs.cache
+C:\Users\jayesh\source\repos\practical5\practical5\bin\Debug\net6.0\practical5.exe
+C:\Users\jayesh\source\repos\practical5\practical5\bin\Debug\net6.0\practical5.deps.json
+C:\Users\jayesh\source\repos\practical5\practical5\bin\Debug\net6.0\practical5.runtimeconfig.json
+C:\Users\jayesh\source\repos\practical5\practical5\bin\Debug\net6.0\practical5.dll
+C:\Users\jayesh\source\repos\practical5\practical5\bin\Debug\net6.0\practical5.pdb
+C:\Users\jayesh\source\repos\practical5\practical5\obj\Debug\net6.0\practical5.dll
+C:\Users\jayesh\source\repos\practical5\practical5\obj\Debug\net6.0\refint\practical5.dll
+C:\Users\jayesh\source\repos\practical5\practical5\obj\Debug\net6.0\practical5.pdb
+C:\Users\jayesh\source\repos\practical5\practical5\obj\Debug\net6.0\practical5.genruntimeconfig.cache
+C:\Users\jayesh\source\repos\practical5\practical5\obj\Debug\net6.0\ref\practical5.dll
